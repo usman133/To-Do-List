@@ -12,7 +12,7 @@ This simple React app offers a to do list, in which items can be added and marke
 
 **How to run this app**
 After you have cloned this repository or downloaded the files onto your local machine, open the application in your choice of IDE and run the following command in terminal:
-### `npm start`
+## `npm start`
 
 **Tech used**
 * React
@@ -24,4 +24,5 @@ After you have cloned this repository or downloaded the files onto your local ma
 * Github
 
 **Resource(s)**
+
 https://www.youtube.com/watch?v=hQAHSlTtcmY&list=PLTn_rsUqoPeSJpBQQ5_W86_oxZlXftBv9&index=7&t=312s&ab_channel=WebDevSimplified

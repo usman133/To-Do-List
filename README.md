@@ -19,7 +19,6 @@ After you have cloned this repository or downloaded the files onto your local ma
 * React
 * Javascript
 * HTML
-* CSS
 * Visual Studio Code   
 * Git
 * Github
